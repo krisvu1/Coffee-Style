@@ -1,0 +1,151 @@
+.header-img{
+    height:530px;
+    position:relative;
+}
+.header-text-content{
+    position:absolute;
+    top:45%;
+    left:25%;
+    color:#fff;
+    line-height:50px;
+}
+.main-story{
+    width:50%;
+    text-align:center;
+    
+}
+.text-base{
+    margin-bottom:30px
+}
+.btn-main-story {
+  border-bottom:1px solid orange;
+    padding:3px;
+   
+    
+}
+.featured{
+    margin: 102px 0px;
+}
+ .products-featured{
+    width:960px;
+    height:653px;
+    margin:0 auto;
+}
+.products-featured-1{
+    margin-right:20px;
+}
+.products-featured-1 img{
+    position: relative;
+    
+    
+}
+.products-featured-1-text{
+    display:block;
+    text-align:center;
+    
+}
+.products-featured-2-text {
+    display:block;
+    text-align:center;
+}
+.products-featured-1 p{
+    text-align:center;
+}
+.products-featured-2 p{
+    text-align:center;
+}
+
+.exploremug{
+    position:absolute;
+    top: 233%;
+    left: 18%;
+    background-color: white;
+    padding: 12px 172px;
+}
+.products-featured-2 img{
+    position: relative;
+}
+.exploremug-1{
+    position: absolute;
+    right: 18%;
+    padding: 12px 172px;
+    top: 233%;
+    background: white;
+    
+}
+.all-products{
+    width: 960px
+}
+.all-products img{
+    height:365px
+}
+.main-product-3 {
+    margin-left:20px
+}
+.main-product-1 {
+    margin-right:20px;
+    position:relative;
+}
+.product-explore{
+    position: absolute;
+    bottom: 130px;
+    display: inline-block;
+    left: 22px;
+    padding: 10px 88px;
+    background-color: white;
+    border:1px solid gray;
+    
+}
+.main-product-2{
+    position:relative;
+}
+.product-explore-1{
+    position: absolute;
+    bottom: 130px;
+    display: inline-block;
+    left: 22px;
+    padding: 10px 88px;
+    background-color: white;
+    border:1px solid gray;
+}
+.main-product-3{
+    position:relative;
+}
+.product-explore-3{
+    position: absolute;
+    bottom: 130px;
+    display: inline-block;
+    left: 22px;
+    padding: 10px 88px;
+    background-color: white;
+    border:1px solid gray;
+}
+.main-product-1-text{
+    padding-top:30px;
+    margin-bottom:10px;
+}
+.main-product-2-text{
+    padding-top:30px;
+    margin-bottom:10px;
+}.main-product-3-text{
+    padding-top:30px;
+    margin-bottom:10px;
+}
+.main-product-1-price{
+    margin-bottom:30px;
+    color:red
+}
+.main-product-2-price{
+    margin-bottom:30px;
+    color:red
+}.main-product-3-price{
+    margin-bottom:30px;
+    color:red
+}
+.moreproducts{
+    margin: 50px 0px;
+}
+.magazinefree{
+    margin: 50px 0px;
+    
+}
